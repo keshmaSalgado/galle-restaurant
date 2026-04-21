@@ -162,4 +162,4 @@ This project is open source and available under the MIT License.
 
 ## Support
 
-For questions or issues, please contact: info@gallerestaurant.com
+For questions or issues, please contact: keshmasalgado11@gmail.com
