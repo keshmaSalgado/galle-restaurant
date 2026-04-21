@@ -1,0 +1,15 @@
+[
+  {
+    "id": "1776630352080",
+    "name": "fruit salad",
+    "description": "Fruit salad is a dish consisting of various kinds of fruit, sometimes served in a liquid, either their juices or a syrup. In different forms, fruit salad can be served as an appetizer or a side as a salad. A fruit salad is sometimes known as a fruit cocktail, or fruit cup",
+    "ingredients": [
+      "strawberries, pineapple, kiwis, grapes, and blueberries, often tossed in a light dressing of honey, lime juice, and zest"
+    ],
+    "instructions": [
+      "Create a vibrant fruit salad by combining 6–8 cups of chopped, seasonal fruits (such as pineapple, strawberries, kiwi, grapes, and bananas) in a large bowl. Toss with a simple dressing of 2 tbsp honey and 1 tbsp lime/lemon juice to prevent browning and enhance flavor. Chill for 15–30 minutes before serving. "
+    ],
+    "image": "/uploads/1776630352075-tropical-fruit-salad-square.jpeg",
+    "createdAt": "2026-04-19T20:25:52.080Z"
+  }
+]
