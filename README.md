@@ -33,7 +33,7 @@ Bot:  "Our Chicken Kottu is a crowd favourite! Would you like to know what's in 
 ### 🤖 AI Chatbot
 | Feature | Description |
 |---|---|
-| 🤖 Gemini AI | Powered by Google Gemini 1.5 Flash |
+| 🤖 Gemini AI | Powered by Google Gemini 2.5 Flash |
 | 🍔 Smart Recommendations | Context-aware food suggestions |
 | 💬 Real-time Chat | Fluid, responsive chat interface |
 | 🌍 CORS Support | Seamless frontend–backend communication |
