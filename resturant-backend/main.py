@@ -60,7 +60,7 @@ chicken kottu is LKR 5000
 Seafood Rice is LKR 4000
 Cheese Pizza is LKR 2000
 Fried Rice is LKR 1000
-you can go to receipies with this link https://resturant-ecru-zeta.vercel.app/recipes
+you can go to receipies with this link 👉 https://resturant-ecru-zeta.vercel.app/recipes
 User message:
 {req.message}
 """
